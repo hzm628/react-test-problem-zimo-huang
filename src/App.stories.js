@@ -10,4 +10,4 @@ export default {
 
 const Template = args => <App {...args}/>
 
-export const Default = Template.bind({}) 
+export const Default = Template.bind({});
